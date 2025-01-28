@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  background-color: lightblue;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: Violet;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightgrey;
+  color:black;
+}
+
+h1 {
+  background-color: lightblue;
+  color: black;
+}
+
+div {
+  background-color: blue;
+  color: white;
+}
+</style>
+</head>
+<body>
